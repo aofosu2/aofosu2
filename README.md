@@ -1,4 +1,4 @@
-Hello, I'm Alex Ofosu,
+Hello I'm Alex Ofosu,
 
 I am an experienced Data Analyst with 3 years experience supporting Sales team using Sales data
 I am currently learning Data Science at Arizona State University
